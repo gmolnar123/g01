@@ -1,2 +1,2 @@
-select *
+select count(*)
 from dvd
